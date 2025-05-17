@@ -1,0 +1,13 @@
+playwright
+beautifulsoup4
+requests
+tqdm
+pillow
+pandas
+openpyxl
+easyocr
+transformers
+torch
+llama-cpp-python
+lxml
+pyqt5
